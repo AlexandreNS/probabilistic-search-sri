@@ -87,7 +87,7 @@ Para o corpus [CRPC sub-corpus oral espontÉneo.zip](https://github.com/Alexandr
 
 ![Exemplo1](https://github.com/AlexandreNS/probabilistic-search-sri/blob/main/exemplo1.png?raw=true)
 
-Após a marcação dos documentos 20 e 4 como relevantes para a consulta, ao realizar a pesquisa novamente temos o seguinte resultado:
+Após a marcação dos documentos 20 e 4 como relevantes para a consulta, ao realizar a pesquisa novamente vemos que eles ja começam a ser priorizados e tem o seu score aumentado:
 
 ![Exemplo2](https://github.com/AlexandreNS/probabilistic-search-sri/blob/main/exemplo2.png?raw=true)
 
