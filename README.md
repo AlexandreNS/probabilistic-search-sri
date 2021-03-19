@@ -64,6 +64,7 @@ Para construção do indice vetorial com os valores de TF_IDF e IDF computados p
     - Com `n_i`: numero de documentos que contem o termo *i*
     - Com `N`: numero total de documentos do corpus
 - TF_IDF = `TF * IDF`
+
 **Apenas o valor do IDF é aproveitado na busca probabilista**
 
 Para a função de busca e calculo da similaridade:
